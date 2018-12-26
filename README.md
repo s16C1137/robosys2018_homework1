@@ -1,6 +1,6 @@
 # ロボットシステム学2018課題1
 
-##aiueo
+#aiueo
 ###aiudo
 
 ####aiueo
