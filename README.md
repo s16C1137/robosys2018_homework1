@@ -2,9 +2,9 @@
 main.pyを実行すると
 入力した時間の秒数LEDが点灯
 
-「1」だと　　1秒間
-「2」だと　　2秒間
-「0.5」だと　0.5秒間　点灯します
+「1」だと　　1秒間\n
+「2」だと　　2秒間\n
+「0.5」だと　0.5秒間　点灯します\n
 
 ## License
 ・This repository is licensed under the GPLv3 License, see LICENSE.
